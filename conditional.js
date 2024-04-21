@@ -21,4 +21,13 @@ var mybudget =150000;
 //     console.log('my shuami is best');
 // }
 
+var chickenprice = 180;
+var mymoney = 50;
+
+if (chickenprice < mymoney){
+    console.log('yeah murgi khabo');
+}
+else {
+    console.log('smashed potato with lentil soup') 
+}
 
