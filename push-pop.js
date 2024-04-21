@@ -14,3 +14,6 @@ var lastitem = friendsage.pop();
 // friendsage.pop();
 console.log(friendsage);
 console.log(lastitem);
+
+// javascript remove first item from an arry 
+// javascript array add element in the beginning 

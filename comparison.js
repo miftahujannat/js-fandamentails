@@ -12,3 +12,5 @@ console.log(mylove < yourlove);
 console.log(mylove > yourlove);
 console.log(mylove != yourlove);
 
+// console.log(studygood && goodperson);
+console.log(isbanker || goodresult);
